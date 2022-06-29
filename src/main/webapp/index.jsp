@@ -32,7 +32,7 @@
         out.println();    
             
         //Displaying elements of array after sorting    
-        out.println("\nElements of array sorted in descending order: ");    
+        out.println('\n'+"Elements of array sorted in descending order: ");    
         for (int i = 0; i < arr.length; i++) {     
             out.print(arr[i] + " ");    
         }     
