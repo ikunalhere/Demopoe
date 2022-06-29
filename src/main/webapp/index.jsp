@@ -13,7 +13,7 @@
         int temp = 0;    
             
         //Displaying elements of original array    
-        out.println("Elements of original array: ");    
+        <h1> out.println("Elements of original array: ");    
         for (int i = 0; i < arr.length; i++) {     
             out.print(arr[i] + " ");    
         }    
@@ -36,7 +36,7 @@
         for (int i = 0; i < arr.length; i++) {     
             out.print(arr[i] + " ");    
         }     
-      
+      </h1>
         
   
 %>  
