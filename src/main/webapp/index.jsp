@@ -7,13 +7,13 @@
 <title>Insert title here</title>  
 </head>  
 <body>  
-  
+  <h1>
 <%  
    int [] arr = new int [] {5, 2, 8, 7, 1};     
         int temp = 0;    
             
         //Displaying elements of original array    
-        <h1> out.println("Elements of original array: ");    
+         out.println("Elements of original array: ");    
         for (int i = 0; i < arr.length; i++) {     
             out.print(arr[i] + " ");    
         }    
@@ -36,10 +36,10 @@
         for (int i = 0; i < arr.length; i++) {     
             out.print(arr[i] + " ");    
         }     
-      </h1>
+      
         
   
-%>  
+%>  </h1>
   
 </body>  
 </html>
